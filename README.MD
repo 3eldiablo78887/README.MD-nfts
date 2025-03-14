@@ -1,6 +1,6 @@
 {
   "api_key": "Uwb7T0DbXMQHjiJBNf9_b005qYjLmJqk",
-  "wallet_address": "UQDKb2nMq7FDjtN5NIJk2CNqJufnk1967LJlxlBpdLETDRWg",
+  "wallet_address": "EQBGwFz9ufJNtBYYmbR6p5KHTxzhziSs4s7OVDfBQuhrMpN0",
   "nft_image_url": "https://ibb.co/YBXTZQJC",
   "api_endpoint": "https://testnet.toncenter.com/api/v3/nft/collections?collection_address=UQDKb2nMq7FDjtN5NIJk2CNqJufnk1967LJlxlBpdLETDRWg&collection_address=string&limit=10&offset=1",
   "nft_collections": [
